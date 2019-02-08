@@ -1,0 +1,6 @@
+﻿  GraphicsHeader.cpp
+c:\users\f.isfarca\desktop\graphicsheader\graphicsheader\graphics.h(41): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\f.isfarca\desktop\graphicsheader\graphicsheader\graphics.h(42): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\f.isfarca\desktop\graphicsheader\graphicsheader\graphics.h(211): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+c:\users\f.isfarca\desktop\graphicsheader\graphicsheader\graphics.h(212): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+  GraphicsHeader.vcxproj -> C:\Users\f.isfarca\Desktop\GraphicsHeader\Debug\GraphicsHeader.exe
